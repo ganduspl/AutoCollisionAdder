@@ -38,16 +38,18 @@ It provides flexible filtering options and a live preview of which objects will 
 
 1. Open the tool from the menu:  
    **`Tools > Auto Collision Adder`**
-2. Choose a **Collider Type** from the dropdown.
-3. Select the **filters** you want to apply:
+   <img width="161" height="52" alt="image" src="https://github.com/user-attachments/assets/63928eb0-0530-46a7-8253-6c44f84c4722" />
+
+3. Choose a **Collider Type** from the dropdown.
+4. Select the **filters** you want to apply:
    - All Objects (ignores filters)
    - Name Filter – matches objects containing a string
    - Tag Filter – matches objects with a specific tag
    - Layer Filter – matches objects on a given layer
    - Section Filter (3D Box) – use a draggable/resizable box in the Scene View to select objects
-4. (Optional) Enable **Include Children** to also affect child objects.
-5. Click **"Add Colliders to Objects"**.
-6. A confirmation dialog will show how many objects will be affected. Confirm to apply.
+5. (Optional) Enable **Include Children** to also affect child objects.
+6. Click **"Add Colliders to Objects"**.
+7. A confirmation dialog will show how many objects will be affected. Confirm to apply.
 
 ---
 
