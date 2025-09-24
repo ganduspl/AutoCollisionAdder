@@ -40,7 +40,8 @@ It provides flexible filtering options and a live preview of which objects will 
 
 1. Open the tool from the menu:  
    **`Tools > Auto Collision Adder`**
-   <img width="161" height="52" alt="image" src="https://github.com/user-attachments/assets/63928eb0-0530-46a7-8253-6c44f84c4722" />
+   
+   <img width="261" height="152" alt="image" src="https://github.com/user-attachments/assets/63928eb0-0530-46a7-8253-6c44f84c4722" />
 
 3. Choose a **Collider Type** from the dropdown.
 4. Select the **filters** you want to apply:
