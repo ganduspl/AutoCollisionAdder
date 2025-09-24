@@ -1,4 +1,4 @@
-# Auto Collision Adder
+# Auto Collision Adder 🛠
 
 Auto Collision Adder is a custom Unity Editor tool that lets you quickly add colliders to multiple objects in your scene.  
 It provides flexible filtering options and a live preview of which objects will be affected before applying changes.
@@ -12,7 +12,7 @@ It provides flexible filtering options and a live preview of which objects will 
   - Mesh Collider
   - Sphere Collider
   - Capsule Collider
-- Powerful filters:
+- Filters:
   - By object **name** (string contains)
   - By **tag**
   - By **layer**
