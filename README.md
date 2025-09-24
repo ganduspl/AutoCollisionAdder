@@ -53,6 +53,9 @@ It provides flexible filtering options and a live preview of which objects will 
 6. Click **"Add Colliders to Objects"**.
 7. A confirmation dialog will show how many objects will be affected. Confirm to apply.
 
+   <img width="581" height="204" alt="image" src="https://github.com/user-attachments/assets/0a6b6737-d165-4fff-96d9-d3f64d8b0e57" />
+
+
 ---
 
 ## Requirements
