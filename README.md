@@ -62,27 +62,11 @@ It provides flexible filtering options and a live preview of which objects will 
 
 ---
 
-## Example Use Cases
-
-- Quickly adding colliders to imported environment assets.
-- Bulk-adding colliders to objects by tag (e.g., "Interactable").
-- Using the 3D box filter to add colliders only to objects within a certain area of the scene.
-
----
-
-## Roadmap / Ideas
-
-- Highlight objects in the Scene View that match current filters (preview with outlines).
-- Support for custom collider settings (size, convex, etc.).
-- Export/Import filter presets.
-
----
 
 ## Author
 
 Created by **ganduspl**
 
----
 
 ## License
 
