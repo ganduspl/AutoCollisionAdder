@@ -55,7 +55,8 @@ It provides flexible filtering options and a live preview of which objects will 
 
 ## Preview
 
-*(Here you can add a GIF or screenshot of the tool in Unity.)*
+<img width="767" height="238" alt="image" src="https://github.com/user-attachments/assets/73bf509b-f618-45e9-ae1b-54b7c2937632" />
+
 
 ---
 
