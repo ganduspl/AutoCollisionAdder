@@ -4,6 +4,8 @@ Auto Collision Adder is a custom Unity Editor tool that lets you quickly add col
 It provides flexible filtering options and a live preview of which objects will be affected before applying changes.
 
 ---
+<img width="573" height="853" alt="image" src="https://github.com/user-attachments/assets/3ea8d01f-185d-4cac-9b45-ef4725953c0e" />
+
 
 ## Features
 
