@@ -8,7 +8,7 @@ It provides flexible filtering options and a live preview of which objects will 
 
 
 ## Features
-
+<img width="567" height="238" alt="image" src="https://github.com/user-attachments/assets/73bf509b-f618-45e9-ae1b-54b7c2937632" />
 - Add different types of colliders:
   - Box Collider
   - Mesh Collider
@@ -50,13 +50,6 @@ It provides flexible filtering options and a live preview of which objects will 
 5. (Optional) Enable **Include Children** to also affect child objects.
 6. Click **"Add Colliders to Objects"**.
 7. A confirmation dialog will show how many objects will be affected. Confirm to apply.
-
----
-
-## Preview
-
-<img width="567" height="238" alt="image" src="https://github.com/user-attachments/assets/73bf509b-f618-45e9-ae1b-54b7c2937632" />
-
 
 ---
 
