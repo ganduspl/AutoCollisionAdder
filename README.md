@@ -8,7 +8,9 @@ It provides flexible filtering options and a live preview of which objects will 
 
 
 ## Features
+
 <img width="567" height="238" alt="image" src="https://github.com/user-attachments/assets/73bf509b-f618-45e9-ae1b-54b7c2937632" />
+
 - Add different types of colliders:
   - Box Collider
   - Mesh Collider
